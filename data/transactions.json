@@ -1,4 +1,7 @@
-[
+{
+    "account_id": "ACC001",
+    "currency": "INR",
+    "transactions": [
     {
         "transaction_id": "T001",
         "date": "2026-02-01",
@@ -31,4 +34,5 @@
         "category": "Entertainment",
         "description": "Movie tickets"
     }
-]
+                   ]
+}
