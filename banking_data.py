@@ -273,4 +273,5 @@ def main():
     spending = calculate_monthly_spending()
     print(format_spending_report(spending))
 
-if __name__ == "__main__":main()
+if __name__ == "__main__":
+    main()
